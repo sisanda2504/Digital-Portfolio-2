@@ -18,13 +18,13 @@ This portfolio showcases my learning and development in key areas of professiona
 ---
 
 ### Business Communication
-*   **Evidence:** [See file](Business-Communication/evidence1)
+*   **Evidence:** [See file](Business-Communication/evidence1.png)
 *   **Reflection (STAR):** [Read reflection](Business-Communication/reflection)
 
 ---
 
 ### Interview Skills
-*   **Evidence:** [See file](Interview-Skills/evidence2)
+*   **Evidence:** [See file](Interview-Skills/evidence2.png)
 *   **Reflection (STAR):** [Read reflection](Interview-Skills/reflection)
 
 ---
@@ -36,7 +36,7 @@ This portfolio showcases my learning and development in key areas of professiona
 ---
 
 ### Professional Networking
-*   **Evidence:** [See file](Professional-Networking/evidence3)
+*   **Evidence:** [See file](Professional-Networking/evidence3.png)
 *   **Reflection (STAR):** [Read reflection](Professional-Networking/reflection)
 
 ---
