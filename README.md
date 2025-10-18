@@ -36,8 +36,8 @@ This portfolio showcases my learning and development in key areas of professiona
 ---
 
 ### Professional Networking
-*   **Evidence:** [See file](Professional-Networking/evidence3.png)
-*   **Reflection (STAR):** [Read reflection](Professional-Networking/reflection)
+*   **Evidence:** [See file](Proffessional-Networking/evidence3.png)
+*   **Reflection (STAR):** [Read reflection](Proffessional-Networking/reflection)
 
 ---
 
@@ -48,7 +48,7 @@ This portfolio showcases my learning and development in key areas of professiona
 ---
 
 ### Overall Summary
-*   **Summary:** [Read Summary](Summary)
+*   **Summary:** [Read Summary](Overall-Summary/Summary)
 ---
 
 > **Note:** All assessments were completed individually and submitted via the designated platform. The evidence files are screenshots of my final scores, demonstrating full completion and understanding of the material.
