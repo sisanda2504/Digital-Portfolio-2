@@ -30,7 +30,7 @@ This portfolio showcases my learning and development in key areas of professiona
 ---
 
 ### Mock Interview
-*   **Evidence:** [See file](Mock-Interview/mockvideo)
+*   **Evidence:** [See file](Mock-Interview/mockvideo.mp4)
 *   **Reflection (STAR):** [Read reflection](Mock-Interview/reflection)
 
 ---
