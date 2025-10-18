@@ -37,7 +37,7 @@ This portfolio showcases my learning and development in key areas of professiona
 
 ### Professional Networking
 *   **Evidence:** [See file](Proffessional-Networking/evidence3.png)
-*   **Reflection (STAR):** [Read reflection](Proffessional-Networking/reflection)
+*   **Reflection (STAR):** [Read reflection](Professional-Networking/reflection)
 
 ---
 
